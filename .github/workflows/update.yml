@@ -23,7 +23,7 @@ jobs:
         run: npm install
         
       - name: Run EPG grab
-        run: npm run grab -- --channels=custom/channels.xml --output=custom/guide.xml
+        run: npm run grab -- --channels=custom/channels.xml --output=custom/guide.xml ----maxConnections=2  --timeout=2000  --days=3 --gzip
         
       - name: Commit and push changes
         run: |
