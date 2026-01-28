@@ -5,8 +5,6 @@
   <channel site="virgintvgo.virginmedia.com" site_id="1837" lang="en" xmltv_id="TNTSports3">TNT Sports 3 HD</channel>
   <channel site="virgintvgo.virginmedia.com" site_id="1405" lang="en" xmltv_id="TNTSports4">TNT Sports 4 HD</channel>
   <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Willow.Sports.plex" lang="en" xmltv_id="WillowSports">Willow Sports</channel>
-  <channel site="streamingtvguides.com" site_id="WILLOW" lang="en" xmltv_id="WillowCB1">Willow Cricbuz1</channel>
-  <channel site="streamingtvguides.com" site_id="WILXTRA" lang="en" xmltv_id="WillowCB2">Willow Cricbuzz2</channel>
   <channel site="content.astro.com.my" site_id="197" lang="ms" xmltv_id="AstroCricket">Astro Cricket</channel>
   <channel site="tataplay.com" site_id="141" lang="en" xmltv_id="StarSportsSelect1">Star Sports Select 1</channel>
   <channel site="tataplay.com" site_id="246" lang="en" xmltv_id="StarSportsSelect1HD">Star Sports Select 1 HD</channel>
@@ -15,21 +13,11 @@
   <channel site="beinsports.com" site_id="63A30D9C-609D-4A30-8730-2CA391DF287A" lang="en" xmltv_id="beINSports2Au">beIN SPORTS 2</channel>
   <channel site="beinsports.com" site_id="164C0EDA-EBCE-4AA6-9DDA-D603E0948B9F" lang="en" xmltv_id="beINSports1Au">beIN SPORTS 1</channel>
   <channel site="beinsports.com" site_id="2E8A6222-8D90-4291-81E3-AF2F72557746" lang="en" xmltv_id="beINSports3AU">beIN SPORTS 3</channel>
-  <channel site="i.mjh.nz" site_id="Kayo/epg#53208" lang="en" xmltv_id="">FOX CRICKET</channel>
+  <channel site="i.mjh.nz" site_id="Kayo/epg#53208" lang="en" xmltv_id="foxcricket">FOX CRICKET</channel>
   <channel site="sky.de" site_id="1000" lang="de" xmltv_id="SkySportPremierLeaguede">Sky Sport Premier League HD</channel>
   <channel site="sky.de" site_id="1012" lang="de" xmltv_id="SkySportTennisde">Sky Sport Tennis HD</channel>
   <channel site="sky.de" site_id="1014" lang="de" xmltv_id="SkySportTopEventde">Sky Sport Top Event HD</channel>
   <channel site="sky.de" site_id="1005" lang="de" xmltv_id="SkySportMixde">Sky Sport Mix HD</channel>
-  <channel site="beinsports.com" site_id="6DB008B8-66DA-423E-805D-616211D4B174" lang="fr" xmltv_id="beINSports3fr">beIN SPORTS 3</channel>
-  <channel site="beinsports.com" site_id="6F425028-14F0-4E38-B776-71A9DB3F3493" lang="fr" xmltv_id="beINSportsMax10fr">beIN SPORTS MAX 10</channel>
-  <channel site="beinsports.com" site_id="9B4708C5-F5F0-452A-8157-4661C30FAE6A" lang="fr" xmltv_id="beINSportsMax7fr">beIN SPORTS MAX 7</channel>
-  <channel site="beinsports.com" site_id="76D2430C-8BCB-41BD-A1DE-FBA0D58C5E8A" lang="fr" xmltv_id="beINSportsMax8fr">beIN SPORTS MAX 8</channel>
-  <channel site="beinsports.com" site_id="66265DD1-D2AA-4A89-9412-2455186E90ED" lang="fr" xmltv_id="beINSports1fr">beIN SPORTS 1</channel>
-  <channel site="beinsports.com" site_id="1E886E98-3104-4D8E-A97F-734B23108E8A" lang="fr" xmltv_id="beINSports2fr">beIN SPORTS 2</channel>
-  <channel site="beinsports.com" site_id="A4425E44-B004-4137-ACB4-458BA4D710F8" lang="fr" xmltv_id="beINSportsMax5fr">beIN SPORTS MAX 5</channel>
-  <channel site="beinsports.com" site_id="BBD26D71-897D-4799-87A1-A87120130D48" lang="fr" xmltv_id="beINSportsMax6fr">beIN SPORTS MAX 6</channel>
-  <channel site="beinsports.com" site_id="EF7E0369-CFD9-4607-9238-EC483E6D58A3" lang="fr" xmltv_id="beINSportsMax4fr">beIN SPORTS MAX 4</channel>
-  <channel site="beinsports.com" site_id="FB208953-1C70-4D1E-B918-103AB02AB181" lang="fr" xmltv_id="beINSportsMax9fr">beIN SPORTS MAX 9</channel>
   <channel site="sky.com" site_id="1289" lang="en" xmltv_id="PremierSports1">Premier 1 HD</channel>
   <channel site="sky.com" site_id="1290" lang="en" xmltv_id="PremierSports2">Premier 2 HD</channel>
   <channel site="sky.com" site_id="1302" lang="en" xmltv_id="SkySportsCricketuk">SkySports Cricket</channel>
