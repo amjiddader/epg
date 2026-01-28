@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="virgintvgo.virginmedia.com" site_id="1744" lang="en" xmltv_id="TNTSports1b">TNT Sports 1 HD</channel>
-  <channel site="sky.com" site_id="3661" lang="en" xmltv_id="TNTSports1">TNT Sports 1</channel>
+  <channel site="virgintvgo.virginmedia.com" site_id="1744" lang="en" xmltv_id="TNTSports1b">TNT Sports 1</channel>
+  <channel site="sky.com" site_id="3661" lang="en" xmltv_id="TNTSports1">TNT Sports 1 HD</channel>
   <channel site="virgintvgo.virginmedia.com" site_id="1745" lang="en" xmltv_id="TNTSports2">TNT Sports 2 HD</channel>
   <channel site="virgintvgo.virginmedia.com" site_id="1837" lang="en" xmltv_id="TNTSports3">TNT Sports 3 HD</channel>
   <channel site="virgintvgo.virginmedia.com" site_id="1405" lang="en" xmltv_id="TNTSports4">TNT Sports 4 HD</channel>
