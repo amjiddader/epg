@@ -23,7 +23,7 @@ jobs:
         run: npm install
         
       - name: Run EPG grab
-        run: npm run grab -- --channels=custom/channels.xml --output=custom/guide.xml --maxConnections=5  --timeout=2000  --days=1 --gzip
+        run: npm run grab -- --channels=custom/channels.xml --output=custom/guide.xml --maxConnections=5  --timeout=15000  --days=3
         
       - name: Commit and push changes
         run: |
@@ -32,4 +32,5 @@ jobs:
           git add custom/guide.xml
           git diff --staged --quiet || git commit -m "chore: update EPG guide"
           git push
+
 
