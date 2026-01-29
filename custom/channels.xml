@@ -22,6 +22,9 @@
   <channel site="sky.com" site_id="1289" lang="en" xmltv_id="PremierSports1">Premier 1 HD</channel>
   <channel site="sky.com" site_id="1290" lang="en" xmltv_id="PremierSports2">Premier 2 HD</channel>
   <channel site="sky.com" site_id="1302" lang="en" xmltv_id="SkySportsCricketuk">SkySports Cricket</channel>
+  <channel site="tataplay.com" site_id="1489" lang="en" xmltv_id="fancode1">Tata Play Fancode Sports1</channel>
+  <channel site="tataplay.com" site_id="1786" lang="en" xmltv_id="fancode2">Tata Play Fancode Sports2</channel>
+
 
 
 </channels>
